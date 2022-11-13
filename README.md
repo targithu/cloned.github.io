@@ -1,4 +1,4 @@
 # cloned  
 Cloned Project  
 ***SOURCE-CODEWITHHARRY***  
-[click here](https://targithu.github.io/cloned/)
+[click here](https://tarun-hegde.github.io/cloned/)
